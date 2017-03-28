@@ -1,0 +1,10 @@
+﻿  Zadanie1.cpp
+e:\grafika komputerowa\lab03\zadanie1\zadanie1\zadanie1\zadanie1.cpp(91): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+e:\grafika komputerowa\lab03\zadanie1\zadanie1\zadanie1\zadanie1.cpp(267): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\grafika komputerowa\lab03\zadanie1\zadanie1\zadanie1\zadanie1.cpp(276): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+e:\grafika komputerowa\lab03\zadanie1\zadanie1\zadanie1\zadanie1.cpp(387): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\grafika komputerowa\lab03\zadanie1\zadanie1\zadanie1\zadanie1.cpp(391): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\grafika komputerowa\lab03\zadanie1\zadanie1\zadanie1\zadanie1.cpp(395): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+e:\grafika komputerowa\lab03\zadanie1\zadanie1\zadanie1\zadanie1.cpp(399): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Zadanie1.vcxproj -> E:\Grafika komputerowa\Lab03\Zadanie1\Zadanie1\Debug\Zadanie1.exe
+  Zadanie1.vcxproj -> E:\Grafika komputerowa\Lab03\Zadanie1\Zadanie1\Debug\Zadanie1.pdb (Full PDB)
